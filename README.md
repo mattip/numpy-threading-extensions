@@ -17,7 +17,7 @@ pip install fast_numpy_loops
 
 You can also install the in-development version with::
 ```
-    pip install https://github.com/Qaunsight/numpy-threading-extensions/archive/master.zip
+    pip install https://github.com/quansight/numpy-threading-extensions/archive/main.zip
 ```
 
 ## Documentation
